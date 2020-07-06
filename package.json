@@ -1,0 +1,22 @@
+{
+  "name": "docker-node-hello-app",
+  "version": "1.0.0",
+  "description": "Docker Node Hello Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entom/docker-node-hello-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entom/docker-node-hello-app/issues"
+  },
+  "homepage": "https://github.com/entom/docker-node-hello-app#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
